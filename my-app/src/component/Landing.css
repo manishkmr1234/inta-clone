@@ -1,0 +1,14 @@
+.home-cont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+  }
+  
+.home {
+    display: flex !important;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    min-width: 100px;
+    color: red;
+}
